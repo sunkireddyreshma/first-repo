@@ -1,2 +1,3 @@
 # first-repo
-Creating a first repository
+creating a first repository reshma sun rises in the east
+
